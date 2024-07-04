@@ -1869,7 +1869,7 @@ iframe {
 
 }
 
-@media screen and (min-width: 750px) and (min-height: 1000px) {
+@media screen and (min-width: 750px)and (max-width: 900px) and (min-height: 1000px) {
 
   .hero {
     height: calc(52vh - 100px);
@@ -1896,7 +1896,7 @@ iframe {
 
 }
 
-@media screen and (min-width: 800px) and (min-height: 1100px) {
+@media screen and (min-width: 800px) and (max-width: 1000px) and (min-height: 1100px) {
 
   .hero {
     height: calc(46vh - 100px);
