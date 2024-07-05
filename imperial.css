@@ -1918,7 +1918,7 @@ iframe {
 
 }
 
-@media screen and (min-width: 850px) and (min-height: 1250px) {
+@media screen and (min-width: 850px) and (max-width: 1000px) and (min-height: 1250px) {
 
   .hero {
     height: calc(44vh - 100px);
@@ -1946,6 +1946,15 @@ iframe {
 
   .hero-text img {
     transform: translate(30vw, 12vh);
+  }
+
+  .image-container img{
+    height: 100%;
+    width: 100%;
+  }
+
+  .footer{
+    height: 37vh !important;
   }
 
 }
