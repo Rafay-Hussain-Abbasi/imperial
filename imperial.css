@@ -1672,7 +1672,7 @@ iframe {
 
   .intro-text .description h6 {
     font-size: 14px;
-    line-height: 25px;
+    line-height: 20px;
     padding: 0px 10px;
   }
 
@@ -1710,8 +1710,8 @@ iframe {
 
   .intro-text .description h6 {
     font-size: 28px;
-    line-height: 36px;
-    margin: 10px 12px;
+    line-height: 46px;
+    margin: 10px 40px;
   }
 
   p {
